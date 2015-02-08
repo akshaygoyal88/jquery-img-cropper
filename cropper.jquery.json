@@ -4,7 +4,7 @@
   "description": "it is image cropper plugin in jquery.You can just pass size in img tag and putting rel=crop.",
   "keywords": [
     "jquery",
-    "imae",
+    "image",
     "crop"
   ],
   "version": "1.0.0",
